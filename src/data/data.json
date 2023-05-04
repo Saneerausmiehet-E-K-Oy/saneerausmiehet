@@ -105,32 +105,32 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
+        "yTunnus": "Y-3239947-4",
+        "phone": "+358417005040",
+        "email": "saneerausmiehet.e.k@gmail.com",
+        "facebook": "https://www.facebook.com/Saneerausmiehet.E.K",
         "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "youtube": "https://instagram.com/saneerausmiehet.e.k_oy?igshid=YmMyMTA2M2Y="
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Laadukas työ",
+            "text": "Meillä on laaja kokemus rakennusalalta ja ammattitaitoinen tiimi, joka työskentelee huolellisesti ja tarkasti varmistaakseen korkealaatuisen lopputuloksen."
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Luotettavuus",
+            "text": "Noudatamme aikatauluja sekä teemme kaikkemme jotta budjetti pysyy sovitussa. Myöskin pidämme asiakkaiden tarpeet etusijalla. Olemme aina saatavilla vastaamaan kysymyksiin ja kuuntelemme asiakkaidemme toiveita."
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Kokonaisvaltainen palvelu",
+            "text": "Tarjoamme laajan valikoiman palveluita alusta loppuun, Asiakkaamme voivat luottaa meihin, että hoidamme kaikki tarvittavat työt."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Kohtuullinen hinta",
+            "text": "Olemme sitoutuneet tarjoamaan asiakkaillemme kilpailukykyiset hinnat. Pyrimme varmistamaan, että asiakkaat ovat tyytyväiset niin hintaan kuin meidän työnjälkeemme."
         }
     ]
 }

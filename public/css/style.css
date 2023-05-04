@@ -186,6 +186,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	position: relative;
 	width: 100%;
 	padding: 0;
+	background: url(../img/saneerausmiehet-background.png) center center no-repeat;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -433,7 +434,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
 	padding: 100px 0 60px 0;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+	background: linear-gradient(to right, #ca000f 0%, #7a0c13 100%);
 	color: rgba(255,255,255,.75);
 }
 #contact .section-title {

@@ -43,6 +43,11 @@ export const Navigation = (props) => {
                 Galleria
               </a>
             </li>
+            <li>
+              <a href='#contact' className='page-scroll'>
+                Ota yhteyttä
+              </a>
+            </li>
           </ul>
         </div>
       </div>
