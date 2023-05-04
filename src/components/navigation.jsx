@@ -1,3 +1,5 @@
+import logo from "../assets/saneerausmiehet-circle.png";
+
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -15,8 +17,9 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
-            My Landing Page
+          <img src={logo} alt="Saneerausmiehet" style={{height: "50"}} />
+          <a className='navbar-brand page-scroll' style={{paddingRight: 0}} href='#page-top'>
+            Saneerausmiehet
           </a>{' '}
         </div>
 
@@ -26,31 +29,20 @@ export const Navigation = (props) => {
         >
           <ul className='nav navbar-nav navbar-right'>
             <li>
-              <a href='#features' className='page-scroll'>
-                Features
-              </a>
-            </li>
-            <li>
               <a href='#about' className='page-scroll'>
-                About
+                Tietoa meistä   
               </a>
             </li>
             <li>
-              <a href='#services' className='page-scroll'>
-                Services
+              <a href='#features' className='page-scroll'>
+                Miksi me
               </a>
             </li>
             <li>
               <a href='#portfolio' className='page-scroll'>
-                Gallery
+                Galleria
               </a>
             </li>
-            <li>
-              <a href='#testimonials' className='page-scroll'>
-                Testimonials
-              </a>
-            </li>
-            
           </ul>
         </div>
       </div>

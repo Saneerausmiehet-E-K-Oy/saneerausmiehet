@@ -1,12 +1,12 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Saneerausmiehet E.K Oy",
+        "paragraph": "Ammattitaitoista remontointia yli 30 vuoden kokemuksella - tervetuloa Keravalaiseen perheyritykseen!"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Vuonna 2021 perustettu Keravalainen rakennusalan perheyritys. 30v kokemuksella ja osaamisella tehdään erilaiset remontit, kuin ikkunavaihdot, sekä kattoremontit. Työnjälkemme on aina ammattimainen, ja pyrimme asiakkaalle parhaimpaan vaihtoehtoon.",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
