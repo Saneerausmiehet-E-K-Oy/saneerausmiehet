@@ -101,7 +101,7 @@ export const Contact = (props) => {
               <h3>Yhteystiedot</h3>
               <p>
                 <span>
-                  <i className='fa fa-map-marker'></i> Y-tunnus
+                  <i className='fa fa-'></i> Y-tunnus
                 </span>
                 {props.data ? props.data.yTunnus : 'loading'}
               </p>
@@ -139,7 +139,7 @@ export const Contact = (props) => {
                   </li>
                   <li>
                     <a href={props.data ? props.data.youtube : '/'}>
-                      <i className='fa fa-youtube'></i>
+                      <i className='fa fa-instagram'></i>
                     </a>
                   </li>
                 </ul>

@@ -19,7 +19,7 @@ export const Navigation = (props) => {
           </button>
           <img src={logo} alt="Saneerausmiehet" style={{height: "50"}} />
           <a className='navbar-brand page-scroll' style={{paddingRight: 0}} href='#page-top'>
-            Saneerausmiehet
+            Saneerausmiehet E.K Oy
           </a>{' '}
         </div>
 
